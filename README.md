@@ -22,3 +22,10 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+created with rails new
+
+added testing - also added integration test for the links
+added bootstrap via gemfile
+used Sass
+reformated to use partials
